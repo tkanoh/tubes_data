@@ -11,7 +11,7 @@
 |6GB8|[Triode Ep-Ip](./data/Ep-Ip_6gb8_tri.csv)|[復刻版 真空管活用自由自在](https://www.amazon.co.jp/gp/product/441619904X/503-5516065-7340704?ie=UTF8&tag=tklabs-22&linkCode=xm2&camp=247&creativeASIN=441619904X)(誠文堂新光社 ISBN4-416-19904-X)|
 |6GA4|[Triode Ep-Ip](./data/Ep-Ip_6ga4.csv)|[復刻版 真空管活用自由自在](https://www.amazon.co.jp/gp/product/441619904X/503-5516065-7340704?ie=UTF8&tag=tklabs-22&linkCode=xm2&camp=247&creativeASIN=441619904X)(誠文堂新光社 ISBN4-416-19904-X)|
 |6AR5|[Triode Ep-Ip](./data/Ep-Ip_6ar5_tri.csv)|[Data Sheet/TUNG-SOL](./reference/6ar5.pdf)|
-|6L6WGB|[Triode Ep-Ip](./data/Ep-Ip_6l6wgb_tri.csv)|[Data Sheet/TUNG-SOL](./reference/6ar5.pdf)|
+|6L6WGB|[Triode Ep-Ip](./data/Ep-Ip_6l6wgb_tri.csv)|[Data Sheet/TUNG-SOL](./reference/6l6wgb.pdf)|
 |45|[Ep-Ip](./data/Ep-Ip_45.csv)|[Data Sheet/RCA](./reference/45.pdf)|
 |5670W|[Ep-Ip](./data/Ep-Ip_5670w.csv)|[Data Sheet/GE](./reference/5670w.pdf)|
 |kT88|[Triode Va-Ia](./data/Va-Ia_kt88_tri.csv)|[Data Sheet/GEC](./reference/kt88.pdf)|
